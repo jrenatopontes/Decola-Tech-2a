@@ -4,5 +4,5 @@ Este repositório sera voltado para documentação das aulas que estou praticand
 
 ## conteudo 
 1. Logica de programação essencial 
-2. Estrutura de dados e algoritmo
+2. Estrutura de dados e algoritmos
 3. Introdução ao Git e ao GitHub
