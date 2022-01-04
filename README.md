@@ -6,3 +6,6 @@ Este repositório sera voltado para documentação das aulas que estou praticand
 1. Logica de programação essencial 
 2. Estrutura de dados e algoritmos
 3. Introdução ao Git e ao GitHub
+
+## link para realização do estudo
+[bootcamp Decola Tech 2a](https://web.dio.me/track/decola-tech-2a-edicao?tab=path)
